@@ -8,7 +8,7 @@ My name is Muhammad Sakha and I'm a Fulbright Scholar (final year) at Carnegie M
 
 I mangaged primarily gratuity funds for our instituitional clients and raised debt funds through structured financing deals. Some of the work I've done would be struturing First Pakistan Microfinance Fund a _PKR 5B (US$36M)_ financing facility and managed gratuity funds amounting to PKR 4B ($25M). <br/>
 
-As of late my interest has been more towards data analytics, so I worked on building biodiversity maps for United Nations for COP25 summit and social media analytics for Sony PlayStation. <br/>
+As of late my interest has been more towards data analytics, so I worked on building [biodiversity maps](https://www.unbiodiversitylab.org/) for United Nations for COP25 summit and social media analytics for Sony PlayStation. <br/>
 
 I enjoy travelling (12 countries so far), playing football (soccer) and drawing amateur hand animation.
 
