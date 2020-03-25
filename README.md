@@ -38,7 +38,7 @@ Again using Kepler visualization, I choose this images to get some strong colors
 <img width="600" height="400" src="https://github.com/muhammadasakha/skittles/blob/master/images/lines-s.png?raw=true">
 </p>
 
-Again I converted them into a color palette using [Adobe Color] (https://color.adobe.com/create/image):
+Again I converted them into a color palette using [Adobe Color](https://color.adobe.com/create/image):
 <p align="center">
 <img width="600" height="150" src="https://github.com/muhammadasakha/skittles/blob/master/images/Color2.jpg?raw=true">
 </p>
