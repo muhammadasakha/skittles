@@ -16,9 +16,10 @@ I enjoy travelling (12 countries so far), playing football (soccer) and drawing 
 My focus would be on larning open source tools especially QGIS as its geared with python. Further I'd love to use Mapbox as I really liked its visualizations. You can see some of my work at [here](https://www.unbiodiversitylab.org/) where I worked on biodiversity maps for UN COP 25 sumit. 
 
 ## Portfolio
-Here are some examples of what I am learning during this course.
+Well here goes my portfolio.
 
-In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapstyle.withgoogle.com/) to create my own Google Maps basemap, which I've named Kepler Inspirations. To create the style, I used [Kepler GL](https://kepler.gl/) and [MapBox](https://www.mapbox.com/) as my inspiration.
+### Google Map Style: Kepler Visuals
+In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapstyle.withgoogle.com/) to create my own Google Maps basemap, which I've named Kepler Inspirations. To create the style, I used [Kepler GL](https://kepler.gl/) and [MapBox](https://www.mapbox.com/) visualizations as my inspiration.
 
 I ultimately settled on the following images from Kepler visualizations (photo by [Kepler GL Uber](https://github.com/muhammadasakha/skittles/blob/master/images/image4-3.png?raw=true) via [Kepler GL](https://kepler.gl))
 
