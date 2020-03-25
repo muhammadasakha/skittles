@@ -21,7 +21,7 @@ Well here goes my portfolio.
 ### Google Map Style: Kepler Visuals
 In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapstyle.withgoogle.com/) to create my own Google Maps basemap, which I've named Kepler Inspirations. To create the style, I used [Kepler GL](https://kepler.gl/) and [MapBox](https://www.mapbox.com/) visualizations as my inspiration.
 
-I ultimately settled on the following images from Kepler visualizations (photo by [Kepler GL Uber](https://github.com/muhammadasakha/skittles/blob/master/images/image4-3.png?raw=true) via [Kepler GL](https://kepler.gl))
+I ultimately settled on the following images from Kepler visualizations (photo by [Kepler GL Uber](https://github.com/muhammadasakha/skittles/blob/master/images/image4-3.png?raw=true) via [Kepler GL](https://kepler.gl)). It shows  kepler.gl visualization for elevation contours of San Francisco and Treasure Island/Yerba Island.
 
 <p align="center">
 <img width="600" height="400" src="https://github.com/muhammadasakha/skittles/blob/master/images/image4-3.png?raw=true">
@@ -33,7 +33,7 @@ Using [Adobe Color](https://color.adobe.com/create/image), I created a custom co
 <img width="800" height="150" src="https://github.com/muhammadasakha/skittles/blob/master/images/Color1.png?raw=true">
 </p>
 
-Again using Kepler visualization, I choose this images to get some strong colors for contrast:
+Again using Kepler visualization, I choose this images to get some strong colors for contrast. It shows Bay Area commute patterns.
 <p align="center">
 <img width="600" height="400" src="https://github.com/muhammadasakha/skittles/blob/master/images/lines-s.png?raw=true">
 </p>
