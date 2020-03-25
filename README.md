@@ -29,7 +29,7 @@ I ultimately settled on the following images from Kepler visualizations (photo b
 Using [Adobe Color](https://color.adobe.com/create/image), I created a custom color palette based on the image. 
 
 <p align="center">
-<img width="600" height="150" src="https://github.com/muhammadasakha/skittles/blob/master/images/Color1.png?raw=true">
+<img width="800" height="150" src="https://github.com/muhammadasakha/skittles/blob/master/images/Color1.png?raw=true">
 </p>
 
 Secondly again using Kepler visualization I choose this images to get some strong colors for contrast:
