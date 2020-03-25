@@ -48,4 +48,3 @@ In Google Maps Styling Wizard, I selected the "Aubergine" theme to serve as my b
 <p align="center">
 <img width="900" height="500" src="https://raw.githubusercontent.com/muhammadasakha/skittles/master/images/Map_final.bmp">
 </p>
-
