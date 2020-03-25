@@ -1,4 +1,4 @@
-# skittles
+# skittles - GIS Portfolio
 I love skittles so that's my GIS Portfolio. You can access it [here](https://muhammadasakha.github.io/skittles/).
 
 ## Aboutme
