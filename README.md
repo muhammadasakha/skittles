@@ -2,7 +2,7 @@
 Well skittles (love em' :yum:) is my GIS Portfolio. You can access it [here](https://muhammadasakha.github.io/skittles/).
 
 ## Aboutme
-<img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg" width = 400, height = 300> Well I flattered you are even here. <br/>
+<img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg"> Well I flattered you are even here. <br/>
 
 My name is Muhammad Sakha and I'm a Fulbright Scholar (final year) at Carnegie Mellon University. Prior to CMU, I've worked in portolio management and project financing in Pakistan. <br/>
 
