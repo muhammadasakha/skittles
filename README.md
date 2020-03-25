@@ -2,7 +2,9 @@
 Well skittles (love em' :yum:) is my GIS Portfolio. You can access it [here](https://muhammadasakha.github.io/skittles/).
 
 ## Aboutme
-<img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg" width = 400, height = 300> Well I flattered you are even here. <br/>My name is Muhammad Sakha and I'm a Fulbright Scholar (final year) at Carnegie Mellon University. Prior to CMU, I've worked in portolio management and project financing in Pakistan. <br/>
+<img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg" width = 400, height = 300> Well I flattered you are even here. <br/>
+
+My name is Muhammad Sakha and I'm a Fulbright Scholar (final year) at Carnegie Mellon University. Prior to CMU, I've worked in portolio management and project financing in Pakistan. <br/>
 I mangaged primarily gratuity funds for our instituitional clients and raised debt funds through structured financing deals. Some of the work I've done would be struturing First Pakistan Microfinance Fund a _PKR 5B (US$36M)_ financing facility and managed gratuity funds amounting to PKR 4B ($25M). <br/>
 
 As of late my interest has been more towards data analytics, so I worked on building biodiversity maps for United Nations for COP25 summit and social media analytics for Sony PlayStation. <br/>
