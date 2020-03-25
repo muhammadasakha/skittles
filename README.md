@@ -42,7 +42,7 @@ Again I converted them into a color palette using [Adobe Color] (https://color.a
 <img width="600" height="150" src="https://github.com/muhammadasakha/skittles/blob/master/images/Color2.jpg?raw=true">
 </p>
 
-In Google Maps Styling Wizard, I selected the "Aubergine" theme to serve as my base template and then changed the colors of various features using the hex codes from my custom color palette. A screenshot of the final product is displayed below. To access an interactive version of the map style, just click [here](https://github.com/muhammadasakha/skittles/blob/master/MapView.html).
+In Google Maps Styling Wizard, I selected the "Aubergine" theme to serve as my base template and then changed the colors of various features using the hex codes from my custom color palette. A screenshot of the final product is displayed below. To access an interactive version of the map style, just click [here](https://muhammadasakha.github.io/skittles/MapView.html).
 
 <p align="center">
 <img width="900" height="500" src="https://raw.githubusercontent.com/muhammadasakha/skittles/master/images/Map_final.bmp">
