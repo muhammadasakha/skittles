@@ -1,5 +1,5 @@
 # skittles - GIS Portfolio
-I love skittles so that's my GIS Portfolio. You can access it [here](https://muhammadasakha.github.io/skittles/).
+I love skittles so that's my GIS Portfolio 90753: Advanced GIS. You can access it [here](https://muhammadasakha.github.io/skittles/).
 
 ## About me
 <img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg"> Well I am flattered you are even here. <br/>
