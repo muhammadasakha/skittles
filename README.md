@@ -1,16 +1,16 @@
 # skittles
-Well skittles (love em' :yum:) is my GIS Portfolio. You can access it [here](https://muhammadasakha.github.io/skittles/).
+I love skittles so that's my GIS Portfolio. You can access it [here](https://muhammadasakha.github.io/skittles/).
 
 ## Aboutme
-<img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg"> Well I flattered you are even here. <br/>
+<img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg"> Well I am flattered you are even here. <br/>
 
-My name is Muhammad Sakha and I'm a Fulbright Scholar (final year) at Carnegie Mellon University. Prior to CMU, I've worked in portolio management and project financing in Pakistan. <br/>
+So this is Muhammad Sakha and I'm a Fulbright Scholar (final year) at Carnegie Mellon University. Prior to CMU, I've worked in portolio management and project financing in Pakistan. <br/>
 
 I mangaged primarily gratuity funds for our instituitional clients and raised debt funds through structured financing deals. Some of the work I've done would be struturing First Pakistan Microfinance Fund a _PKR 5B (US$36M)_ financing facility and managed gratuity funds amounting to PKR 4B ($25M). <br/>
 
 As of late my interest has been more towards data analytics, so I worked on building [biodiversity maps](https://www.unbiodiversitylab.org/) for United Nations for COP25 summit and social media analytics for Sony PlayStation. <br/>
 
-I enjoy travelling (12 countries so far), playing football (soccer) and drawing amateur hand animation.
+I enjoy travelling (12 countries so far), playing football (soccer) and drawing amateur hand animation (not good).
 
 ## What I expect to learn
 My focus would be on larning open source tools especially QGIS as its geared with python. Further I'd love to use Mapbox as I really liked its visualizations. You can see some of my work at [here](https://www.unbiodiversitylab.org/) where I worked on biodiversity maps for UN COP 25 sumit. 
