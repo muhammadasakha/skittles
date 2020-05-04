@@ -63,4 +63,14 @@ Here is a heatmap showing my hotspots within US.
 <img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/kepler-gl%20(2).png?raw=true">
 </p>
 
+### Analyzing Hurrican Katrina Imapct - ArcGIS Pro
 
+Here I am analyzing the impact of Hurricane Katrina on the Missisippi Coastal region to see the areas that are at risk and infrastructure damage in the affected region.
+
+<p align="center">
+<img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/Map1%20MSakha-page-001.jpg?raw=true">
+</p>
+
+<p align="center">
+<img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/Map3%20MSakha-page-001.jpg?raw=true">
+</p>
