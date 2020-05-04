@@ -74,3 +74,12 @@ Here I am analyzing the impact of Hurricane Katrina on the Missisippi Coastal re
 <p align="center">
 <img width="900" height="600" src="https://github.com/muhammadasakha/skittles/blob/master/images/Map3%20MSakha-page-001.jpg?raw=true">
 </p>
+
+### Analyzing DEA Opioid Pill Data (Washington Post) - ArcGIS Pro
+
+Here I am analyzing the opiod pill supply chain that originated in Mingo County, West Virginia part of the DEA database released by Washington Post.
+
+<p align="center">
+<img width="900" height="600" src="https://github.com/muhammadasakha/skittles/blob/master/images/Map1.png?raw=true">
+</p>
+
