@@ -53,4 +53,4 @@ Kepler Polygons
 
 Here is a map of Paycheck Protecton Program (PPP) showing the average loan per 1,000 small businesses overlaid with the commercial bank concentration ratio per 10,000 small businesses. 
 
-See my map [here](https://github.com/muhammadasakha/skittles/blob/master/images/kepler.gl.html).
+See my map [here](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/0mxe908d70dui28/keplergl_5gd1yk.json).
