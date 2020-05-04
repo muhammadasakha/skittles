@@ -49,8 +49,11 @@ In Google Maps Styling Wizard, I selected the "Aubergine" theme to serve as my b
 <img width="900" height="500" src="https://raw.githubusercontent.com/muhammadasakha/skittles/master/images/Map_final.bmp">
 </p>
 
-Kepler Polygons
+### Visualizing Google Location Data in Kepler GL
 
-Here is a map of Paycheck Protecton Program (PPP) showing the average loan per 1,000 small businesses overlaid with the commercial bank concentration ratio per 10,000 small businesses. 
+I analyzed my location data from Google Maps to see how my mobility has been over the last few year. 
 
-See my map [here](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/0mxe908d70dui28/keplergl_5gd1yk.json).
+Here is a visualization showing my movement patterns within US.
+<p align="center">
+<img width="600" height="150" src="https://github.com/muhammadasakha/skittles/blob/master/images/kepler-gl%20(1).png?raw=true">
+</p>
