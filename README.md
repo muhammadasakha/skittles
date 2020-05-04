@@ -48,3 +48,9 @@ In Google Maps Styling Wizard, I selected the "Aubergine" theme to serve as my b
 <p align="center">
 <img width="900" height="500" src="https://raw.githubusercontent.com/muhammadasakha/skittles/master/images/Map_final.bmp">
 </p>
+
+Kepler Polygons
+
+Here is a map of Paycheck Protecton Program (PPP) showing the average loan per 1,000 small businesses overlaid with the commercial bank concentration ratio per 10,000 small businesses. 
+
+See my map [here](https://github.com/muhammadasakha/skittles/blob/master/images/kepler.gl.html).
