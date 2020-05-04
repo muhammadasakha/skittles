@@ -57,3 +57,10 @@ Here is a visualization showing my movement patterns within US.
 <p align="center">
 <img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/kepler-gl%20(1).png?raw=true">
 </p>
+
+Here is a heatmap showing my hotspots within US.
+<p align="center">
+<img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/kepler-gl%20(2).png?raw=true">
+</p>
+
+
