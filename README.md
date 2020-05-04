@@ -55,5 +55,5 @@ I analyzed my location data from Google Maps to see how my mobility has been ove
 
 Here is a visualization showing my movement patterns within US.
 <p align="center">
-<img width="600" height="150" src="https://github.com/muhammadasakha/skittles/blob/master/images/kepler-gl%20(1).png?raw=true">
+<img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/kepler-gl%20(1).png?raw=true">
 </p>
