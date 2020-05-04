@@ -4,16 +4,16 @@ I love skittles so that's my GIS Portfolio 90753: Advanced GIS. You can access i
 ## About me
 <img align="left" src="https://github.com/muhammadasakha/skittles/blob/master/images/IMG_20181226_132106.jpg"> Well I am flattered you are even here. <br/>
 
-So this is Muhammad Sakha and I'm a Fulbright Scholar (final year) at Carnegie Mellon University. Prior to CMU, I've worked in portolio management and project financing in Pakistan. <br/>
+Hi I'm Muhammad Sakha, a Fulbright Scholar (final year) at Carnegie Mellon University. Prior to CMU, I've worked in portfolio management and project financing in Pakistan. <br/>
 
-I mangaged primarily gratuity funds for our instituitional clients and raised debt funds through structured financing deals. Some of the work I've done would be struturing First Pakistan Microfinance Fund a _PKR 5B (US$36M)_ financing facility and managed gratuity funds amounting to PKR 4B ($25M). <br/>
+I managed primarily gratuity funds for our institutional clients and raised debt funds through structured financing deals. Some of the work I've done would be structuring First Pakistan Microfinance Fund a _PKR 5B (US$36M)_ financing facility and managed gratuity funds amounting to PKR 4B ($25M). <br/>
 
 As of late my interest has been more towards data analytics, so I worked on building [biodiversity maps](https://www.unbiodiversitylab.org/) for United Nations for COP25 summit and social media analytics for Sony PlayStation. <br/>
 
 I enjoy travelling (12 countries so far), playing football (soccer) and drawing amateur hand animation (not good).
 
 ## What I expect to learn
-My focus would be on larning open source tools especially QGIS as its geared with python. Further I'd love to use Mapbox as I really liked its visualizations. You can see some of my work at [here](https://www.unbiodiversitylab.org/) where I worked on biodiversity maps for UN COP 25 sumit. 
+My focus would be on learning open source tools especially QGIS as its geared with python. Further I'd love to use Mapbox as I really liked its visualizations. You can see some of my work at [here](https://www.unbiodiversitylab.org/) where I worked on biodiversity maps for UN COP 25 summit. 
 
 ## Portfolio
 Well here goes my portfolio.
@@ -51,7 +51,7 @@ In Google Maps Styling Wizard, I selected the "Aubergine" theme to serve as my b
 
 ### Visualizing Google Location Data in Kepler GL
 
-I analyzed my location data from Google Maps to see how my mobility has been over the last few year. 
+I analyzed my location data from Google Maps to see how my mobility has been over the last few years. 
 
 Here is a visualization showing my movement patterns within US.
 <p align="center">
@@ -83,3 +83,9 @@ Here I am analyzing the opiod pill supply chain that originated in Mingo County,
 <img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/Map1.png?raw=true">
 </p>
 
+### Biodiversity Mapping using Satellite Data UNDP - QGIS
+This is an ongoing project where I am analyzing biodiversity regions across Latin America using QGIS an opensource tool. I am using satellite imagery and data by Ministry of Environment and Sustainable Development.
+
+<p align="center">
+<img width="900" height="450" src="https://github.com/muhammadasakha/skittles/blob/master/images/picturemessage_jyr3la5v.5uu.png?raw=true">
+</p>
